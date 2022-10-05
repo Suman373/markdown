@@ -15,15 +15,15 @@ Markdown is mainly used in the following  :
 
 ## Things that can be formatted in markdown
 Here are the few tags that can be formatted in markdown
-- `Headings`
-- `Lists`
-- `Blocks of Code`
-- `Images`
-- `Emphasis`
-- `Blockquotes`
-- `Links`
-- `Horizontal rules`
-- `Span level html tags like cite,span,del can be used in md as it is`
+- Headings
+- Lists
+- Blocks of Code
+- Images
+- Emphasis
+- Blockquotes
+- Links
+- Horizontal rules
+- Span level html tags like cite,span,del can be used in md as it is
 
 ---
 
